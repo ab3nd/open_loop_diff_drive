@@ -2,6 +2,7 @@
 #define OPEN_LOOP_DIFF_DRIVE_H_
 
 #include <ros/ros.h>
+#include <cmath>
 #include <geometry_msgs/Twist.h>
 #include <std_msgs/Int8.h>
 #include <vector>
